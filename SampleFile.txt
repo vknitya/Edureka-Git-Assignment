@@ -1,0 +1,2 @@
+This is a sample file in master branch
+Adding rows for conflicts
