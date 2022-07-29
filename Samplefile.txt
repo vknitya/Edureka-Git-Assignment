@@ -1,2 +1,0 @@
-This is a sample file to test Merge
-Adding new row to clear conflicts
