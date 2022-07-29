@@ -1,2 +1,4 @@
 This is a sample file in master branch
 Adding rows for conflicts
+Adding few test lines
+This is the end
